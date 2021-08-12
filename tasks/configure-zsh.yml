@@ -1,9 +1,19 @@
 ---
+- name: Debug - collect zsh path location
+  command:
+    cmd: "which zsh"
+  changed_when: "false"
+  register: zsh_installation_path
+
+- name: Debug - display zsh path location
+  debug:
+    msg: "{{ zsh_installation_path.stdout }}"
+
 - name: set default shell (Default Method)
   become: "yes"
   user:
     name: '{{ username }}'
-    shell: "/bin/zsh"
+    shell: "{{ zsh_installation_path.stdout }}"
   with_items: "{{ users | map(attribute='username') | list }}"
   loop_control:
     loop_var: username
