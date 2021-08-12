@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- `zsh` installation path from `/bin/zsh` to output of `which zsh`
+- `zsh` installation path from `/bin/zsh` to output of `which zsh`, with debug statements
 
 ## [2.1.0] - 2021-05-31
 
