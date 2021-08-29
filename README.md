@@ -3,17 +3,17 @@ ansible-role-zsh
 
 <p align="center">
 
-<a href="https://github.com/iancleary/ansible-role-zsh/actions?query=workflow%3Aci" target="_blank">
-    <img src="https://github.com/iancleary/ansible-role-zsh/workflows/CI/badge.svg" alt="CI workflow status">
+<a href="https://github.com/icancclearynow/ansible-role-zsh/actions?query=workflow%3Aci" target="_blank">
+    <img src="https://github.com/icancclearynow/ansible-role-zsh/workflows/CI/badge.svg" alt="CI workflow status">
 </a>
 
-<a href="https://github.com/iancleary/ansible-role-zsh/actions?query=workflow%3Arelease" target="_blank">
-    <img src="https://github.com/iancleary/ansible-role-zsh/workflows/Release/badge.svg" alt="Release workflow status">
+<a href="https://github.com/icancclearynow/ansible-role-zsh/actions?query=workflow%3Arelease" target="_blank">
+    <img src="https://github.com/icancclearynow/ansible-role-zsh/workflows/Release/badge.svg" alt="Release workflow status">
 </a>
-<a href="https://galaxy.ansible.com/iancleary/zsh" target="_blank">
+<a href="https://galaxy.ansible.com/icancclearynow/zsh" target="_blank">
     <img src="https://img.shields.io/badge/ansible--galaxy-icancclearynow.zsh-blue.svg" alt="Ansible Galaxy">
 </a>
-<a href="https://raw.githubusercontent.com/iancleary/ansible-role-zsh/main/LICENSE" target="_blank">
+<a href="https://raw.githubusercontent.com/icancclearynow/ansible-role-zsh/main/LICENSE" target="_blank">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
 </a>
 </p>
@@ -134,7 +134,7 @@ License
 Author Information
 ------------------
 
-This role was created in 2020 by [Ian Cleary](https://blog.iancleary.me).
+This role was created in 2020 by [Ian Cleary](https://blog.icancclearynow.me).
 
 It was derived from the MIT licensed [gantsign/ansible-role-oh-my-zsh](https://github.com/gantsign/ansible-role-oh-my-zsh).
 
