@@ -11,7 +11,7 @@ ansible-role-zsh
     <img src="https://github.com/iancleary/ansible-role-zsh/workflows/Release/badge.svg" alt="Release workflow status">
 </a>
 <a href="https://galaxy.ansible.com/iancleary/zsh" target="_blank">
-    <img src="https://img.shields.io/badge/ansible--galaxy-iancleary.zsh-blue.svg" alt="Ansible Galaxy">
+    <img src="https://img.shields.io/badge/ansible--galaxy-icancclearynow.zsh-blue.svg" alt="Ansible Galaxy">
 </a>
 <a href="https://raw.githubusercontent.com/iancleary/ansible-role-zsh/main/LICENSE" target="_blank">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
@@ -97,7 +97,7 @@ Including an example of how to use your role (for instance, with variables passe
 ```yaml
 - hosts: servers
   roles:
-    - role: iancleary.zsh
+    - role: icancclearynow.zsh
       users:
         - username: test_usr1
         - username: test_usr2

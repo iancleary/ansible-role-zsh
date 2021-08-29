@@ -57,7 +57,7 @@
         - test_usr3
 
   roles:
-    - role: iancleary.zsh
+    - role: icancclearynow.zsh
       users:
         - username: test_usr1
         - username: test_usr2
