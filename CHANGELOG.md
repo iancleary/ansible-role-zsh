@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [3.0.0] - 2021-08-29
+
+### Changed
+
+- username from `iancleary` to `icancclearynow`
+
 ## [2.1.2] - 2021-08-13
 
 ### Changed
@@ -112,7 +118,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial role! 🚀
 
-[Unreleased]: https://github.com/iancleary/ansible-role-zsh/compare/v2.1.2...HEAD
+[Unreleased]: https://github.com/iancleary/ansible-role-zsh/compare/v3.0.0...HEAD
+[3.0.0]: https://github.com/iancleary/ansible-role-zsh/releases/tag/v3.0.0
 [2.1.2]: https://github.com/iancleary/ansible-role-zsh/releases/tag/v2.1.2
 [2.1.1]: https://github.com/iancleary/ansible-role-zsh/releases/tag/v2.1.1
 [2.1.0]: https://github.com/iancleary/ansible-role-zsh/releases/tag/v2.1.0
